@@ -1,0 +1,2 @@
+rootProject.name = "eKapusta"
+include ':app'
